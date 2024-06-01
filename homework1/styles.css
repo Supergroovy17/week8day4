@@ -1,0 +1,33 @@
+
+nav {
+  border: 2px solid pink;
+  height: 150px;
+  background-image: url("https://i.etsystatic.com/40437746/r/il/b5e39a/5294375957/il_1588xN.5294375957_q14s.jpg");
+}
+h1, h2 {
+  background-color: pink;
+}
+body {
+  background-image: url('https://www.blog-well.ca/wp-content/uploads/2013/12/shutterstock_507199120-1.jpg');
+  font-family: Arial, sans-serif;
+  border: 2px solid pink;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover; 
+}
+footer {
+  border: 2px solid pink;
+  display: block;
+  margin: 0 auto;
+}
+.submit-button {
+  display: inline-block;
+  background-color: #a74caf;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  transition: background-color 0.3s ease;
+}
+.submit-button:hover {
+  background-color: pink;
+}
